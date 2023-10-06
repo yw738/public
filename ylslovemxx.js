@@ -1,4 +1,4 @@
-const imgList = [{
+export default [{
     title: '西安行',
     des: '和兔饼一起去西安吃吃喝喝',
     urlList: ["https://source.unsplash.com/collection/582659/1", 'https://source.unsplash.com/collection/582659/2']
